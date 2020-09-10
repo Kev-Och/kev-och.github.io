@@ -145,6 +145,10 @@ img{
   box-shadow: 0 18px 40px -12px rgba(242, 162, 12, .35);
 }
 
+.card_button_vans:hover{
+  box-shadow: 0 18px 40px -12px rgba(215, 219, 221, .35);
+}
+
 .card_img, .card_data, .card_title, .card_title_nike, .card_title_vans, .card_price, .card_description{
   transition: .5s;
 }
